@@ -1,0 +1,11 @@
+D:\資料\自製C#\TestChangePbPageCode\bin\Debug\TestChangePbPageCode.exe.config
+D:\資料\自製C#\TestChangePbPageCode\bin\Debug\TestChangePbPageCode.exe
+D:\資料\自製C#\TestChangePbPageCode\bin\Debug\TestChangePbPageCode.pdb
+D:\資料\自製C#\TestChangePbPageCode\obj\Debug\TestChangePbPageCode.csproj.AssemblyReference.cache
+D:\資料\自製C#\TestChangePbPageCode\obj\Debug\TestChangePbPageCode.csproj.SuggestedBindingRedirects.cache
+D:\資料\自製C#\TestChangePbPageCode\obj\Debug\TestChangePbPageCode.Form1.resources
+D:\資料\自製C#\TestChangePbPageCode\obj\Debug\TestChangePbPageCode.Properties.Resources.resources
+D:\資料\自製C#\TestChangePbPageCode\obj\Debug\TestChangePbPageCode.csproj.GenerateResource.cache
+D:\資料\自製C#\TestChangePbPageCode\obj\Debug\TestChangePbPageCode.csproj.CoreCompileInputs.cache
+D:\資料\自製C#\TestChangePbPageCode\obj\Debug\TestChangePbPageCode.exe
+D:\資料\自製C#\TestChangePbPageCode\obj\Debug\TestChangePbPageCode.pdb
